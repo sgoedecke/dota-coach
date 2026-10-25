@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+parser/dotaparse
+*.dem
+*.dem.zst
+.DS_Store
